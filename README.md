@@ -5,12 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in Competitive programming and software engineering
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBouafif&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBouafif&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedBouafif&theme=flat&column=4&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mohamed-bouafif-466481284/))
+- 📧 mohamedbouafif2020@gmail.com
+
+
+---
