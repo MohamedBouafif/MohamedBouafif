@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<!--
-**MohamedBouafif/MohamedBouafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed — a passionate developer with a strong interest in **Competitive Programming** and **Software Engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 👀 I’m interested in Competitive programming and software engineering
 ## 📈 GitHub Stats
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBouafif&show_icons=true&theme=tokyonight)
@@ -14,12 +12,7 @@ Here are some ideas to get you started:
 
 ---
 
-
-
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mohamed-bouafif-466481284/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-bouafif-466481284/)
 - 📧 mohamedbouafif2020@gmail.com
-
-
----
