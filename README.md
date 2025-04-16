@@ -4,13 +4,6 @@ I'm Mohamed — a passionate developer with a strong interest in **Competitive P
 
 ---
 
-## 📈 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBouafif&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBouafif&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
